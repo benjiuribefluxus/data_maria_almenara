@@ -1,6 +1,0 @@
-tCodigoCanalVenta;tDetallado;lActivaMozo;lActivaMotorizado;lObligaMesa;lObligaPax;lObligaMozo;lObligaMotorizado;lCanalCentralPedidos;lCanalDelivery;lObligaIngresoFechaEntrega;lObligaClienteFrecuente;lActivo;lObligaEntregarA;tEnlaceContable1;tEnlaceContable2;tCodigoSunat;lObligaOrigenVenta;lMobileInforest;lActivaCuentasXCobrar
-1;EN EL LOCAL;1;0;0;0;0;0;0;0;0;0;1;1;2;CD01;;1;0;1
-2;ECOMMERCE;0;0;0;0;0;0;0;1;0;0;1;1;;;;1;0;1
-3;TO GO;0;0;0;0;0;0;0;0;0;0;1;1;2;CD01;;1;0;1
-4;AGREGADORES;0;0;0;0;0;0;0;0;0;0;1;1;;;;1;0;1
-5;CANAL CORP;0;0;0;0;0;0;0;0;0;0;1;1;;;;1;0;1
